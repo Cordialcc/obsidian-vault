@@ -1,1 +1,5 @@
 .DS_Store
+.obsidian/*
+AI网关.md
+可信/.vscode/*
+本机遗留配置.md
